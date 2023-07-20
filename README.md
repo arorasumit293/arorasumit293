@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 Hey I am Sumit Arora !!<br>👯 I’m a Computer Science Undergrad<br>⚡ Currently i am working on Deep Learning Projects<br>
+🔭 Hey I am Sumit Arora !!<br>🌱 I’m a Computer Science Undergrad<br>⚡ Currently i am working on Deep Learning Projects<br>
 
 
 ## 🌐 Socials:
